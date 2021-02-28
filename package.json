@@ -1,7 +1,7 @@
 {
   "name": "niminy",
 	"displayName": "niminy",
-	"description": "",
+	"description": "I like to take a break.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.53.0"
@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:niminy.helloWorld"
+        "onCommand:niminy.timer"
 	],
 	"main": "./src/extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "niminy.helloWorld",
-            "title": "niminy: Hello World"
+            "command": "niminy.timer",
+            "title": "niminy: Timer"
 
 		}]
 	},
