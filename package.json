@@ -2,8 +2,17 @@
     "name": "niminy",
 	"displayName": "niminy",
 	"description": "I like to take a break.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "niminy",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yplog/niminy"
+	},
+	"bugs": {
+		"url": "https://github.com/yplog/niminy/issues",
+		"email": "yalinpala@protonmail.com"
+	},
 	"engines": {
 		"vscode": "^1.53.0"
 	},
