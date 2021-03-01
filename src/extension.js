@@ -9,7 +9,6 @@ function activate(context) {
 
 	let disposable = context.subscriptions.push(vscode.commands.registerCommand('niminy.timer', () => {
 		timePicker().then(m => {
-
 			timerStatusBarItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right, 100);
 			timerStatusBarItem.command = 'niminy.timer';
 			context.subscriptions.push(timerStatusBarItem);
