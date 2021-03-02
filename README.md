@@ -8,7 +8,7 @@ niminy is counting down from the selected duration and warns the user when the t
 
 ## Known Issues
 
-If the extention is restarted while it is already running, it is not working properly.
+There is not any known issues as we encounter.
 ## Release Notes
 ### 0.0.1
 

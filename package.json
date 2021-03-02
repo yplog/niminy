@@ -2,7 +2,7 @@
     "name": "niminy",
 	"displayName": "niminy",
 	"description": "Users can specify durations that help to plan their working time",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "niminy",
 	"icon": "icon.png",
 	"repository": {
